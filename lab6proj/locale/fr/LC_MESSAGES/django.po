@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-23 21:16+0000\n"
+"PO-Revision-Date: 2020-02-23 21:17+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.3\n"
+
+#: .\lab6app\views.py:6
+msgid "Welcome to language translation!"
+msgstr "Bienvenue dans le bit de la langue!"
+
+#: .\lab6proj\settings.py:118
+msgid "English"
+msgstr "Anglais"
+
+#: .\lab6proj\settings.py:119
+msgid "German"
+msgstr "Allemand"
+
+#: .\lab6proj\settings.py:120
+msgid "French"
+msgstr "Français"
+
+#: .\lab6proj\templates\index.html:48
+msgid "Contact us on +420 777 555 333 or hello@universal.com."
+msgstr "Contactez-nous au +420777555333 ou hello@universal.com."
+
+#: .\lab6proj\templates\index.html:56
+msgid "Sign In"
+msgstr "se connecter"
+
+#: .\lab6proj\templates\index.html:56
+msgid "Sign Up"
+msgstr "S'inscrire"
+
+#: .\lab6proj\templates\index.html:74
+msgid "Customer Login"
+msgstr "Connexion client"
+
+#: .\lab6proj\templates\index.html:86
+msgid "Log in"
+msgstr "S'identifier"
+
+#: .\lab6proj\templates\index.html:89
+msgid "Not registered yet?"
+msgstr "Pas encore inscrit?"
+
+#: .\lab6proj\templates\index.html:90
+msgid "Register now"
+msgstr "S'inscrire maintenant"
+
+#: .\lab6proj\templates\index.html:90
+msgid ""
+"! It is easy and done in 1 minute and gives you access to special discounts "
+"and much more!"
+msgstr ""
+"! C'est facile et fait en 1 minute et vous donne accès à des remises "
+"spéciales et bien plus encore!"
+
+#: .\lab6proj\templates\index.html:103
+msgid "Home"
+msgstr "Accueil"
+
+#: .\lab6proj\templates\index.html:118
+msgid "Features"
+msgstr "Traits"
+
+#: .\lab6proj\templates\index.html:148
+msgid "Portfolio"
+msgstr "Portefeuille"
+
+#: .\lab6proj\templates\index.html:184
+msgid "All Pages"
+msgstr "Toutes les pages"
+
+#: .\lab6proj\templates\index.html:276
+msgid "Contact"
+msgstr "Contact"
